@@ -19,3 +19,11 @@ footer {
   font-size: 14px;
   color: #666;
 }
+body.dark {
+  background: #1a202c;
+  color: #f7fafc;
+}
+
+body.dark h1 {
+  color: #63b3ed;
+}
